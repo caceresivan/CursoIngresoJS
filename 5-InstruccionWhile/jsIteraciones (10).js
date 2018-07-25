@@ -6,6 +6,8 @@ function mostrar()
 	
 	var respuesta="si";
 
+	document.write("hola");
+
 	while(respuesta!="no")
 	{
 		
